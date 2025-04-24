@@ -49,6 +49,10 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
+## After the project created,
+1.  U should see a lot of folder and file because the react native expo created it for you
+2.  Make sure to create or modify all the files added to this github to ur project.
+
 ## Download the required dataset for training model
 1. https://universe.roboflow.com/search?q=food%2520dataset
 2. Delete the current data.yaml file from this github repository and used the new one from this link.
