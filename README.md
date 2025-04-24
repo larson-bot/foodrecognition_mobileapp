@@ -48,3 +48,11 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Download the required dataset for training model
+1. https://universe.roboflow.com/search?q=food%2520dataset
+2. Delete the current data.yaml file from this github repository and used the new one from this link.
+3. Run this command in terminal
+
+   # Adjust the epochs if needed, make sure it dont overlap.
+   yolo task=detect mode=train model=yolov8n.pt data=data.yaml epochs=50 imgsz=640
