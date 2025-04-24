@@ -1,0 +1,13 @@
+train: C:/Users/mhtan/project/my-food-recog/yolo-backend/train/images
+val: C:/Users/mhtan/project/my-food-recog/yolo-backend/valid/images
+test: C:/Users/mhtan/project/my-food-recog/yolo-backend/test/images
+
+nc: 36
+names: ['AW cola', 'Beijing Beef', 'Chow Mein', 'Fried Rice', 'Hashbrown', 'Honey Walnut Shrimp', 'Kung Pao Chicken', 'String Bean Chicken Breast', 'Super Greens', 'The Original Orange Chicken', 'White Steamed Rice', 'black pepper rice bowl', 'burger', 'carrot_eggs', 'cheese burger', 'chicken waffle', 'chicken_nuggets', 'chinese_cabbage', 'chinese_sausage', 'crispy corn', 'curry', 'french fries', 'fried chicken', 'fried_chicken', 'fried_dumplings', 'fried_eggs', 'mango chicken pocket', 'mozza burger', 'mung_bean_sprouts', 'nugget', 'perkedel', 'rice', 'sprite', 'tostitos cheese dip sauce', 'triangle_hash_brown', 'water_spinach']
+
+roboflow:
+  workspace: college-gg4mu
+  project: image-segmentation-yolov5
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/college-gg4mu/image-segmentation-yolov5/dataset/1
