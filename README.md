@@ -6,8 +6,8 @@ Steps to follow
 3. Run the following command in terminal to create react native expo project
 
    # Create a project name FoodApp
-   npx create-expo-app@latest FoodApp
-   cd FoodApp
+   1. npx create-expo-app@latest FoodApp
+   2. cd FoodApp
 
    # Try to run the project
    npx expo start
