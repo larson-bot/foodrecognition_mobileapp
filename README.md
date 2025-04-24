@@ -60,3 +60,11 @@ Join our community of developers creating universal apps.
 
    # Adjust the epochs if needed, make sure it dont overlap.
    yolo task=detect mode=train model=yolov8n.pt data=data.yaml epochs=50 imgsz=640
+
+## Create Ur Spoonacular API
+1. Sign up and generate the API yourself and add it to food recognition, food search, recommendation and nutrition tracking UI.
+2. https://spoonacular.com/food-api/console#Profile
+
+## Create Ur Gemini API
+1. https://aistudio.google.com/apikey
+2. Create API Key from this link and add it to chatbot, recommendation UI
