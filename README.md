@@ -18,7 +18,8 @@ Steps to follow
    
 # Download the yolov5 dataset for training the model
 1. https://universe.roboflow.com/suji-nanjundan-hvarn/food-taste
-2. Run the following command in terminal
+2. Remove the data.yaml from this github folder and Use the data.yaml from this link.
+3. Run the following command in terminal
 
    # Make sure to check of the epoch results, dont overlapping the result
    yolo task=detect mode=train model=yolov8n.pt data=data.yaml epochs=50 imgsz=640
