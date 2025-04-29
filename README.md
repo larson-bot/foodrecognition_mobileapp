@@ -68,3 +68,21 @@ Join our community of developers creating universal apps.
 ## Create Ur Gemini API
 1. https://aistudio.google.com/apikey
 2. Create API Key from this link and add it to chatbot, recommendation UI
+
+![image](https://github.com/user-attachments/assets/870b8b3b-f495-4bce-812c-b188a783a871)
+
+![image](https://github.com/user-attachments/assets/ca429978-d414-44b6-971d-8573df6eb774)
+
+![image](https://github.com/user-attachments/assets/173ac189-5c6a-4b77-b89e-e834534bcbdf)
+
+![image](https://github.com/user-attachments/assets/4fcdbf60-e225-4be2-a07e-35e9583f964c)
+
+![image](https://github.com/user-attachments/assets/3256fdb8-26d1-4459-a5c1-26058a715ca2)
+
+![image](https://github.com/user-attachments/assets/5878b0ef-aa35-461f-ad03-9ae69cfb023f)
+
+![image](https://github.com/user-attachments/assets/591549fb-38f4-4fe6-854c-025b7d7eac6a)
+
+
+
+
